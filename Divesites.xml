@@ -1,0 +1,696 @@
+<divesites program='subsurface' version='3'>
+<site uuid='' name='77 Stavenisse Haven' gps='51.595731 4.006366' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-12'/>
+</site>
+<site uuid='' name='De Langspier' gps='51.603552 5.301833' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='03 Dreischor Loswal' gps='51.696937 4.011754' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-2'/>
+</site>
+<site uuid='' name='Daedalos, GR' gps='35.403165 25.022535' description='Middellandse zee'>
+  <geo cat='2' origin='0' value='Greece'/>
+  <geo cat='3' origin='0' value='Kreta'/>
+</site>
+<site uuid='' name='Cuijk, Kraaijenbergse plas 7' gps='51.728054 5.825502' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Gelderland'/>
+</site>
+<site uuid='' name='Raamsdonkveer (Nion)' gps='51.683114 4.876774' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='75 Stavenisse Irenehoeve' gps='51.601330 4.033583' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-12'/>
+</site>
+<site uuid='' name='Drunense Put' gps='51.678467 5.114384' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='El cap vermell, ES-Mal' gps='39.654876 3.453135' description='Middellandse zee'>
+  <notes>https://www.albatros-diving.com/dives/ </notes>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Mallorca'/>
+</site>
+<site uuid='' name='54 s-Gravenhoek Koningsheim' gps='51.605690 3.808039' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-3'/>
+</site>
+<site uuid='' name='Abu Galawa Kebir (wreck), EG' gps='24.227191 35.573413' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='21 Ouddorp,Preekhil' gps='51.794077 3.913823' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-7'/>
+</site>
+<site uuid='' name='10 Den Osse Christoffelnol' gps='51.738020 3.903817' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-4'/>
+</site>
+<site uuid='' name='Medio Almud, ES-Gran' gps='27.800681 -15.740845' description='Atlantische oceaan'>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Gran Canaria'/>
+</site>
+<site uuid='' name='Shaab Malahi, EG' gps='24.214876 35.665120' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='Ras Dudi (Magic Life), EG' gps='26.511714 34.071545' description='Rode Zee'>
+  <notes>https://www.divessi.com/nl/mydiveguide/destination/safaga-9752023 </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Safaga'/>
+</site>
+<site uuid='' name='HTMS Sattakut, TH' gps='10.105600 99.813600' description='Gulf of Thailand'>
+  <notes>https://www.spotmydive.com/en/dive-sites/htms-sattakut-lci-742 </notes>
+  <geo cat='2' origin='0' value='Thailand'/>
+  <geo cat='3' origin='0' value='Koh Tao'/>
+</site>
+<site uuid='' name='The Conger Cave, ES-Mal' gps='39.632744 3.434300' description='Middellandse zee'>
+  <notes>https://www.albatros-diving.com/dives/ </notes>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Mallorca'/>
+</site>
+<site uuid='' name='70 Wemeldinge Oost - Linda' gps='51.521503 4.005942' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-7'/>
+</site>
+<site uuid='' name='76 Stavenisse Oostnol' gps='51.598956 4.018598' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-12'/>
+</site>
+<site uuid='' name='Mononaftis, GR' gps='35.418297 25.021664' description='Middellandse zee'>
+  <geo cat='2' origin='0' value='Greece'/>
+  <geo cat='3' origin='0' value='Kreta'/>
+</site>
+<site uuid='' name='Marsa Mubarak, EG' gps='25.512542 34.653207' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Port Ghalib'/>
+</site>
+<site uuid='' name='32a Zeelandbrug Halfweg' gps='51.629621 3.911537' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-18'/>
+</site>
+<site uuid='' name='Thorn, De Grote Hege (Wrak)' gps='51.153874 5.842669' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Limburg'/>
+</site>
+<site uuid='' name='26A Bruinisse, Goudzwaard' gps='51.639966 4.079547' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-15'/>
+</site>
+<site uuid='' name='Shaab Ini, EG' gps='24.217581 35.595558' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='HMS Hogue' gps='52.266667 3.697222' description='Noordzee'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zuid-Holland'/>
+</site>
+<site uuid='' name='16a Kabbelaar, Le Serpent' gps='51.741287 3.843311' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-5'/>
+</site>
+<site uuid='' name='Todi, BE' gps='51.070633 5.224750' description='Zwembad &gt;6m'>
+  <geo cat='2' origin='0' value='België'/>
+  <geo cat='3' origin='0' value='Vlaanderen'/>
+</site>
+<site uuid='' name='16a Kabbelaar, rif' gps='51.739861 3.843657' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-5'/>
+</site>
+<site uuid='' name='Zilvermeer' gps='51.224731 5.171499' description='Binnenwater'>
+  <geo cat='2' origin='0' value='België'/>
+  <geo cat='3' origin='0' value='Vlaanderen'/>
+</site>
+<site uuid='' name='68 Wemeldinge West - De Hoek' gps='51.524467 3.988882' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-7'/>
+</site>
+<site uuid='' name='Shaab Marsa Alam, EG' gps='25.073117 34.937621' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='67 Kattendijke Klein Stelle' gps='51.524658 3.984553' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-6'/>
+</site>
+<site uuid='' name='26B Bruinisse Broezel' gps='51.642680 4.084821' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-15'/>
+</site>
+<site uuid='' name='50 Vliete polder Westnol' gps='51.597137 3.745166' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-2'/>
+</site>
+<site uuid='' name='Elphinstone, EG' gps='25.309756 34.860375' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='Korafi-Port Ghalib, EG' gps='25.533533 34.639491' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Port Ghalib'/>
+</site>
+<site uuid='' name='78a Gorishoek Punt' gps='51.525395 4.076206' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-11'/>
+</site>
+<site uuid='' name='Shaab Cloude, EG' gps='26.652546 34.063595' description='Rode Zee'>
+  <notes>https://www.divessi.com/nl/mydiveguide/destination/safaga-9752023 </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Safaga'/>
+</site>
+<site uuid='' name='Green Rock, TH' gps='10.125707 99.810301' description='Gulf of Thailand'>
+  <notes>https://member-diving.com/en/divesite/green-rock/ </notes>
+  <geo cat='2' origin='0' value='Thailand'/>
+  <geo cat='3' origin='0' value='Koh Tao'/>
+</site>
+<site uuid='' name='De Baars (put van Heel)' gps='51.534592 5.095465' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='26 Bruinisse Zoetersbout' gps='51.644138 4.089895' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-15'/>
+</site>
+<site uuid='' name='Chumphon Pinnacle, TH' gps='10.172237 99.778876' description='Gulf of Thailand'>
+  <notes>https://www.spotmydive.com/en/dive-sites/chumphon-pinnacle </notes>
+  <geo cat='2' origin='0' value='Thailand'/>
+  <geo cat='3' origin='0' value='Koh Tao'/>
+</site>
+<site uuid='' name='Gabal el Rosas Bay, EG' gps='25.206036 34.809882' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='60 Kats Haven Zuid' gps='51.572139 3.893858' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-4'/>
+</site>
+<site uuid='' name='Cuijk, Kraaijenbergse plas 9' gps='51.747877 5.849267' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Gelderland'/>
+</site>
+<site uuid='' name='Shaab Sataya South, EG' gps='24.156922 35.711481' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='79 Strijenham' gps='51.521373 4.141772' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-9'/>
+</site>
+<site uuid='' name='42b Schelphoek Punt' gps='51.684268 3.818667' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-21'/>
+</site>
+<site uuid='' name='Shaab Hamam, EG' gps='24.262504 35.516373' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='Oostvoornse Plas / Stormvogel' gps='51.931902 4.082428' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zuid-Holland'/>
+</site>
+<site uuid='' name='59 Kats Haven Noord' gps='51.576487 3.891638' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-4'/>
+</site>
+<site uuid='' name='Marsa Abu Dabbour, EG' gps='25.380334 34.718391' description='Rode Zee'>
+  <notes>https://www.wernerlau.com/en/diving-red-sea/marsa-alam/divesites/ </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='05 Dreischor Rif' gps='51.710961 3.994867' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-2'/>
+</site>
+<site uuid='' name='51 Vliete polder Peilhuisje' gps='51.599440 3.751876' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-2'/>
+</site>
+<site uuid='' name='80A Wrak den Boer' gps='51.524288 4.083247' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-11'/>
+</site>
+<site uuid='' name='Engelenmeer (Vlijmen)' gps='51.702929 5.248093' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='29 Ouwerkerk Zuidbout' gps='51.614029 3.958817' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-17'/>
+</site>
+<site uuid='' name='Bahia Blanca, ES-Gran' gps='27.786550 -15.720775' description='Atlantische oceaan'>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Gran Canaria'/>
+</site>
+<site uuid='' name='63 Goese Sas' gps='51.540064 3.929060' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-5'/>
+</site>
+<site uuid='' name='53 s-Gravenhoek Oesterputten' gps='51.605465 3.801818' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-3'/>
+</site>
+<site uuid='' name='21b Ouddorp,Haven' gps='51.796580 3.925124' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-7'/>
+</site>
+<site uuid='' name='72 Anna Jacobapolder' gps='51.643407 4.099277' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-14'/>
+</site>
+<site uuid='' name='17b Koepeltje Oost' gps='51.739328 3.832637' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-5'/>
+</site>
+<site uuid='' name='Sheikh Malek, EG' gps='25.722719 34.552498' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='33 Zeelandbrug Kurkenol' gps='51.629436 3.897246' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-18'/>
+</site>
+<site uuid='' name='44 Plompe toren' gps='51.681668 3.772420' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-22'/>
+</site>
+<site uuid='' name='32 Zeelandbrug' gps='51.629748 3.914444' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-18'/>
+</site>
+<site uuid='' name='Abu Saile, EG' gps='25.429583 34.694408' description='Rode Zee'>
+  <notes>https://www.wernerlau.com/en/diving-red-sea/marsa-alam/divesites/ </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='Surfplas Goirle' gps='51.534833 5.049981' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='Wijckermeer' gps='51.551591 4.960411' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='Iles Medes, ES' gps='42.045637 3.220456' description='Middellandse zee'>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='L&apos;Estartit'/>
+</site>
+<site uuid='' name='Marsa Samadai, EG' gps='25.013339 34.925759' description='Rode Zee'>
+  <notes>https://www.wernerlau.com/en/diving-red-sea/marsa-alam/divesites/ </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='78b Gorishoek Veenblokken' gps='51.526684 4.070347' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-11'/>
+</site>
+<site uuid='' name='Put van Waspik' gps='51.695820 4.934790' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='Shaab Claudio, EG' gps='24.219895 35.611292' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='Green Hole Safaga, EG' gps='26.600051 34.019425' description='Rode Zee'>
+  <notes>https://www.divessi.com/nl/mydiveguide/destination/safaga-9752023 </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Safaga'/>
+</site>
+<site uuid='' name='Slijk-ewijk' gps='51.896410 5.780424' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Gelderland'/>
+</site>
+<site uuid='' name='Zuiderplas' gps='51.672726 5.322787' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='46 Burghsluis Westbout' gps='51.670321 3.739045' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-22'/>
+</site>
+<site uuid='' name='79z Strijenham Schelphoekje' gps='51.525934 4.134582' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-10'/>
+</site>
+<site uuid='' name='The Mushroom, ES-Mal' gps='39.637053 3.435628' description='Middellandse zee'>
+  <notes>https://www.albatros-diving.com/dives/ </notes>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Mallorca'/>
+</site>
+<site uuid='' name='45a Burghsluis' gps='51.673335 3.755139' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-22'/>
+</site>
+<site uuid='' name='71 Yerseke Franse trap' gps='51.511774 4.024997' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-8'/>
+</site>
+<site uuid='' name='Mogan Wrecks, ES-Gran' gps='27.816185 -15.760988' description='Atlantische oceaan'>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Gran Canaria'/>
+</site>
+<site uuid='' name='Salem Express, EG' gps='26.640667 34.061704' description='Rode Zee'>
+  <notes>https://www.divessi.com/nl/mydiveguide/destination/safaga-9752023 </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Safaga'/>
+</site>
+<site uuid='' name='Abu Galawa Kebir, EG' gps='24.228596 35.573733' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='14 Den Osse P/ Kerkweg' gps='51.742735 3.879640' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-4'/>
+</site>
+<site uuid='' name='Southwest Pinacle, TH' gps='9.999358 99.779099' description='Gulf of Thailand'>
+  <notes>https://www.spotmydive.com/en/dive-sites/south-west-pinnacle </notes>
+  <geo cat='2' origin='0' value='Thailand'/>
+  <geo cat='3' origin='0' value='Koh Tao'/>
+</site>
+<site uuid='' name='Hamata Port' gps='24.287484 35.380296'>
+  <geo cat='2' origin='2' value='Egypt'/>
+</site>
+<site uuid='' name='Abu Galawa Soraya, EG' gps='24.253222 35.539939' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='66 Kattendijke, Paal 51-52' gps='51.526167 3.977005' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-6'/>
+</site>
+<site uuid='' name='23 Bruinisse Stoofpolder' gps='51.658529 4.105164' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-15'/>
+</site>
+<site uuid='' name='64 Kattendijke-Wemeldinge P' gps='51.528996 3.965113' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-6'/>
+</site>
+<site uuid='' name='42a Schelphoek Caroline' gps='51.683777 3.823494' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-21'/>
+</site>
+<site uuid='' name='Arguineguin Reef, ES-Gran' gps='27.766167 -15.688706' description='Atlantische oceaan'>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Gran Canaria'/>
+</site>
+<site uuid='' name='68a Wemeldinge Galjoen zonder poen' gps='51.524790 3.988153' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-7'/>
+</site>
+<site uuid='' name='79A Tholen Gemaal - Dickys' gps='51.524322 4.111621' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-10'/>
+</site>
+<site uuid='' name='Pasito Bay, ES-Gran' gps='27.747985 -15.619313' description='Atlantische oceaan'>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Gran Canaria'/>
+</site>
+<site uuid='' name='80 Vuilnisbelt' gps='51.524405 4.102590' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-10'/>
+</site>
+<site uuid='' name='80 Strijenham Haventje' gps='51.523133 4.152972' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-9'/>
+</site>
+<site uuid='' name='Gat van Waalre' gps='51.398010 5.448446' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='Rode Poon (Trevier)' gps='52.440000 3.830000' description='Noordzee'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zuid-Holland'/>
+</site>
+<site uuid='' name='52 Vliete polder Oostnol' gps='51.599372 3.762089' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-2'/>
+</site>
+<site uuid='' name='09 Bommenede Polder op hoek' gps='51.734309 3.943346' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-3'/>
+</site>
+<site uuid='' name='White Rock, TH' gps='10.108800 99.814500' description='Gulf of Thailand'>
+  <notes>https://www.spotmydive.com/en/dive-sites/white-rock/ </notes>
+  <geo cat='2' origin='0' value='Thailand'/>
+  <geo cat='3' origin='0' value='Koh Tao'/>
+</site>
+<site uuid='' name='65 Kattendijke Tetjes' gps='51.528872 3.969197' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-6'/>
+</site>
+<site uuid='' name='34 Zierikzee, Levensstrijd' gps='51.643175 3.890676' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-19'/>
+</site>
+<site uuid='' name='Sail rock, TH' gps='9.944978 99.990053' description='Gulf of Thailand'>
+  <notes>https://www.spotmydive.com/en/dive-sites/sail-rock </notes>
+  <geo cat='2' origin='0' value='Thailand'/>
+  <geo cat='3' origin='0' value='Koh Pha Ngan'/>
+</site>
+<site uuid='' name='Balito, ES-Gran' gps='27.773524 -15.701784' description='Atlantische oceaan'>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Gran Canaria'/>
+</site>
+<site uuid='' name='71A Yerseke Wrak Ketel' gps='51.517251 4.032920' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-8'/>
+</site>
+<site uuid='' name='58 Kats Lange Pier' gps='51.567067 3.896963' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-4'/>
+</site>
+<site uuid='' name='30 Ouwerkerk, Noordbout' gps='51.621039 3.947841' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-17'/>
+</site>
+<site uuid='' name='Marsa Shouna, EG' gps='25.467327 34.678763' description='Rode Zee'>
+  <notes>https://www.wernerlau.com/en/diving-red-sea/marsa-alam/divesites/ </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='17a Koepeltje' gps='51.740030 3.830472' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-5'/>
+</site>
+<site uuid='' name='Big Anchor, GR' gps='35.414606 24.988789' description='Middellandse zee'>
+  <geo cat='2' origin='0' value='Greece'/>
+  <geo cat='3' origin='0' value='Kreta'/>
+</site>
+<site uuid='' name='Marsa Egla, EG' gps='25.172297 34.842234' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='Aquabest Landtong' gps='51.496981 5.435920' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='HMS Cressy' gps='52.256944 3.692222' description='Noordzee'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zuid-Holland'/>
+</site>
+<site uuid='' name='62 Puttis Place' gps='51.545923 3.923862' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-5'/>
+</site>
+<site uuid='' name='De Beldert' gps='51.921860 5.436551' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Gelderland'/>
+</site>
+<site uuid='' name='55 s-Gravenhoek Colijnsplaat' gps='51.605735 3.838914' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-3'/>
+</site>
+<site uuid='' name='Meerse Plas (den Dungen)' gps='51.678118 5.358233' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='08 Bommenede verzonken Toren' gps='51.738861 3.977917' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-3'/>
+</site>
+<site uuid='' name='Blausteinsee' gps='50.854146 6.266820' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Germany'/>
+</site>
+<site uuid='' name='Skylight Cave, ES-Mal' gps='39.642831 3.438695' description='Middellandse zee'>
+  <notes>https://www.albatros-diving.com/dives/ </notes>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Mallorca'/>
+</site>
+<site uuid='' name='Oasis Housereef, EG' gps='25.266284 34.785828' description='Rode Zee'>
+  <notes>https://www.wernerlau.com/en/diving-red-sea/marsa-alam/divesites/ </notes>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Marsa Alam'/>
+</site>
+<site uuid='' name='74 Stavenisse Quaak' gps='51.605050 4.038338' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-1'/>
+</site>
+<site uuid='' name='43 Dijkval' gps='51.687703 3.787436' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-21'/>
+</site>
+<site uuid='' name='De Kuilen' gps='51.697868 5.743926' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='Blauwe Meer' gps='51.617195 5.056051' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='HMS Aboukir' gps='52.257222 3.701389' description='Noordzee'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zuid-Holland'/>
+</site>
+<site uuid='' name='Naturgart Park' gps='52.240180 7.678684' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Germany'/>
+</site>
+<site uuid='' name='57 Katshoek' gps='51.563546 3.899639' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-4'/>
+</site>
+<site uuid='' name='04 Dreischor Gemaal' gps='51.707578 3.999908' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-2'/>
+</site>
+<site uuid='' name='Cuijk, Kiekuut' gps='51.730439 5.820949' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Gelderland'/>
+</site>
+<site uuid='' name='Shaab Maksour, EG' gps='24.240665 35.653473' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='Wadi Lahmy Azur Housereef, EG' gps='24.237609 35.416081' description='Rode Zee'>
+  <geo cat='2' origin='0' value='Egypt'/>
+  <geo cat='3' origin='0' value='Hamata'/>
+</site>
+<site uuid='' name='81 Bergse Diep - Oesterdam' gps='51.516650 4.172659' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-9'/>
+</site>
+<site uuid='' name='73 Sint Annaland' gps='51.609843 4.103196' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-13'/>
+</site>
+<site uuid='' name='Lithse Ham' gps='51.814340 5.415807' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Gelderland'/>
+</site>
+<site uuid='' name='The Big Cheese, ES-Mal' gps='39.708520 3.475459' description='Middellandse zee'>
+  <notes>https://www.albatros-diving.com/dives/ </notes>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Mallorca'/>
+</site>
+<site uuid='' name='13 Den Osse Haven' gps='51.744008 3.887232' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-4'/>
+</site>
+<site uuid='' name='Three Caves, ES-Mal' gps='39.679577 3.456964' description='Middellandse zee'>
+  <notes>https://www.albatros-diving.com/dives/ </notes>
+  <geo cat='2' origin='0' value='Spain'/>
+  <geo cat='3' origin='0' value='Mallorca'/>
+</site>
+<site uuid='' name='45b Burghsluis Oostbout' gps='51.673883 3.757133' description='Oosterschelde'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='OS-22'/>
+</site>
+<site uuid='' name='07 Bommenede Polder' gps='51.733473 3.957358' description='Grevelingen'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zeeland'/>
+  <geo cat='5' origin='0' value='GR-3'/>
+</site>
+<site uuid='' name='La Gombe' gps='50.508794 5.566779' description='Steengroeve'>
+  <geo cat='2' origin='0' value='België'/>
+  <geo cat='3' origin='0' value='Vlaanderen'/>
+</site>
+<site uuid='' name='Kempervennen' gps='51.325115 5.422271' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='Rem 3' gps='52.288287 4.157327' description='Noordzee'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='Zuid-Holland'/>
+</site>
+<site uuid='' name='Empelse/Rosmalense Plas' gps='51.725130 5.338295' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+<site uuid='' name='Radioplas' gps='51.610904 5.920804' description='Binnenwater'>
+  <geo cat='2' origin='0' value='Netherlands'/>
+  <geo cat='3' origin='0' value='North Brabant'/>
+</site>
+</divesites>

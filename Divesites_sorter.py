@@ -2,11 +2,11 @@
 
 import sys, os
 import xml.etree.ElementTree as ET
+import csv
 
 def print_xmltree(root):
     xmlstr = ET.tostring(root, encoding="utf-8", method="xml")
     print(xmlstr.decode("utf-8"))
-
 
 ### https://docs.python.org/3/library/xml.etree.elementtree.html
 ### modes: 'xml_compact': moves childs to attributes, 
@@ -34,16 +34,16 @@ def convert_divesites(xml_in_path, mode='xml_compact'):
 def divesites2csv(root, csv_path): ### should have been parsed by sort_divesites()
     attributes = ['uuid', 'name', 'description', 'gps', 'country', 'state', 'town', 'notes']
     
-    csvfile = open(csv_path, 'w')
+    csvfile = open(csv_path,'w', newline='', encoding='utf-8')
+    csv_writer = csv.writer(csvfile)
     
-    ### Column headers
-    line = '"{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}"'.format(*attributes)
-    csvfile.write(line)
+    ### Column headers:
+    csv_writer.writerow(attributes)
 
+    ### Data:
     for parrent in root: ### site
         values = [(parrent.get(attrib) if parrent.get(attrib) != None else '') for attrib in attributes]
-        line = '\n"{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}"'.format(*values)
-        csvfile.write(line)
+        csv_writer.writerow(values)
     csvfile.close()
 
 
@@ -76,8 +76,11 @@ def sort_divesites(root, mode='xml_compact'):
             else:
                 print("Unknown prop:", prop.tag, "in site:", site.attrib['name'])
         if 'country' not in site.attrib: 
-            ### 'country' required for next sorting step
-            site.attrib['country'] = 'zzz_None'
+            ### 'country' attribute required for next sorting step
+            site.attrib['country'] = ''
+        if 'state' not in site.attrib: 
+            ### 'state' attribute required for next sorting step
+            site.attrib['state'] = ''
         if note_temp != None:
             site.attrib['notes'] = note_temp
     
@@ -90,8 +93,8 @@ def sort_divesites(root, mode='xml_compact'):
                 parent.remove(child)
     #print_xmltree(root)
         
-    ### sort first by country, then by divesite name
-    root[:] = sorted(root, key=lambda child: (child.get('country'),child.get('name')))
+    ### sort first by country, then by state, then by divesite name
+    root[:] = sorted(root, key=lambda child: (child.get('country'),child.get('state'),child.get('name')))
     #for site in root:
     #    print(site.attrib['country'].ljust(14, ' '), site.attrib['name'])
     return root
